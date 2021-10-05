@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+
+
+body{
+    font-family: 'Pacifico', cursive;
+text-align: center;
+/* background: black; */
+background-image: url('./background.jpg');
+background-repeat: no-repeat;
+background-size: 100%;
+}
+
+div{
+background-color: darkgrey;
+margin-top: 50px;
+opacity: 0.8;
+}
+
+h1{
+font-size: 40px;
+}
+
+h3{
+font-size: 30px;
+color: darkgreen;
+}
+
+label{
+font-size: 25px;
+color: darkblue;
+}
+
+span{
+font-size: 25px;
+color: darkmagenta;
+}
+
+
